@@ -1,5 +1,5 @@
 
-# Curso SATI - [NOME EM HAVER]
+# Trilha Fullstack: Construindo sua jornada profissional no mercado de trabalho
 Desenvolvido por [1Up Sistemas](https://umupsistemas.com.br)
 Idealizadores: [Vagner O. Conhariki](https://www.linkedin.com/in/vagner-conhariki/), [Victor Hugo S. Tavares](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/)
 
@@ -17,14 +17,14 @@ Apresentar e resumir alguns conceitos, tecnologias e frameworks mais ustilizados
 - Frontend e Mobile
   - Flutter
   - Dart
-  - DevTools:
-- Git
-- Postman
-- Swagger
+- DevTools:
+  - Git
+  - Postman
+  - Swagger
 - Ferramentas de Debugging
-- Design Pattern:
-- SOLID
-- MVC 
+  - Design Pattern:
+  - SOLID
+  - MVC 
 
 ## Público-alvo
 Alunos de Ciência da Computação ou áreas similares, que tenham noções básicas de lógica e Programação Orientada a Objetos, além de interesse em entender como funciona o mercado de trabalho e as tecnologias comumente utilizadas.
@@ -58,6 +58,6 @@ Aproximadamente 1 hora por módulo.
   - [PgAdmin](https://www.pgadmin.org/)
   - [Flutter](https://docs.flutter.dev/get-started/install)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTI3MzA3LDQxMzIzNjM2MSw0OTA4MD
-g3MTddfQ==
+eyJoaXN0b3J5IjpbMTYwMTE2ODgsNDEzMjM2MzYxLDQ5MDgwOD
+cxN119
 -->
