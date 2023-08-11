@@ -1,16 +1,9 @@
----
+
+# Curso SATI - [NOME EM HAVER]
 
 
----
-
-<h1 id="curso-sati---nome-em-haver">
-# Curso SATI - [NOME EM HAVER]</h1>
-<p>
-
-Desenvolvido por <a href="[1Up Sistemas](https://umupsistemas.com.br">1Up Sistemas </a> &nbsp;<br>
-Idealizadores: <a href=")  
-Idealizadores: [Vagner O. Conhariki](https://www.linkedin.com/in/vagner-conhariki/">Vagner O. Conhariki</a>, <a href="), [Victor Hugo S. Tavares](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/">Victor Hugo S. Tavares </a></p>
-<h2 id="objetivo-do-curso">)
+Desenvolvido por [1Up Sistemas](https://umupsistemas.com.br)
+Idealizadores: [Vagner O. Conhariki](https://www.linkedin.com/in/vagner-conhariki/), [Victor Hugo S. Tavares](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/)
 
 ## Objetivo do curso</h2>
 <p>
@@ -137,5 +130,5 @@ Aproximadamente 1 hora por módulo.</p>
   - [Flutter](https://docs.flutter.dev/get-started/install)
 - Datashow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwODA4NzE3XX0=
+eyJoaXN0b3J5IjpbMjEyOTc0MTIwNSw0OTA4MDg3MTddfQ==
 -->
