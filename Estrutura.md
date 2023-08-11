@@ -5,15 +5,12 @@
 Desenvolvido por [1Up Sistemas](https://umupsistemas.com.br)
 Idealizadores: [Vagner O. Conhariki](https://www.linkedin.com/in/vagner-conhariki/), [Victor Hugo S. Tavares](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/)
 
-## Objetivo do curso</h2>
-<p>
+## Objetivo do curso
 
-Apresentar e resumir alguns conceitos, tecnologias e frameworks mais ustilizados no mercado de trabalho. T, tais como:</p>
-<ul>
-<li>Backend:
-<ul>
-<li>Api</li>
-<li>C#</li>
+Apresentar e resumir alguns conceitos, tecnologias e frameworks mais ustilizados no mercado de trabalho, tais como:
+ - Backend:
+- Api
+ - C#
 <li>Dotnet</li>
 <li>Hangfire</li>
 </ul>
@@ -130,5 +127,5 @@ Aproximadamente 1 hora por módulo.</p>
   - [Flutter](https://docs.flutter.dev/get-started/install)
 - Datashow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTc0MTIwNSw0OTA4MDg3MTddfQ==
+eyJoaXN0b3J5IjpbNDEzMjM2MzYxLDQ5MDgwODcxN119
 -->
